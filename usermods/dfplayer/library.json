@@ -1,0 +1,5 @@
+{
+  "name": "DFPLAYER",
+  "build": { "libArchive": false },
+  "dependencies": {}
+}
